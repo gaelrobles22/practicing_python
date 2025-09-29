@@ -1,0 +1,1 @@
+"""Para convertir una carpeta en un paquete se debe crear una clase __init__.py en la carpeta deseada"""
